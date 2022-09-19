@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DIGSS"]
+	path = DIGSS
+	url = https://github.com/markhubbe/digss
+	shallow = true
+	registered = true
